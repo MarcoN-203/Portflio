@@ -4,7 +4,8 @@ They showcase my skills in OOP and the ability to code gameplay functions using 
 Each project delves into a different game style showcasing my wide experience. 
 
 # Projects
-  
+Disclaimer: These project wil be downloaded as 7zip files and must be closed with Task Manager.
+
 ## Project 1: 
 This game is similar to fruit ninja, simply click on the foods and boxes while dodging the bombs. If you drop one food the game ends and you lose!
 
